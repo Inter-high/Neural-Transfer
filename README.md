@@ -41,6 +41,7 @@ pip3 install requirements.txt
 ## Results
 ![train_images](./figure/train_imgs.jpg)
 ![compare_noise_images](./figure/compare_noise_img.jpg)
+![postprocess_comapre](./figure/postprocess.jpg)
 
 ## References
 - https://arxiv.org/pdf/1508.06576
